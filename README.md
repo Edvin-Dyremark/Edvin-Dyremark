@@ -7,7 +7,7 @@ Enjoy sports, games and building things. Feel free to browse and use any of my p
 
 ### [Dartz](https://github.com/Edvin-Dyremark/Dartz)
 Dart scoring app for Android built with Kotlin and Jetpack Compose.
-Features gamemodes 301, 501, Cricket, and Killer and an intuitive scoring system (no mental arithmetics required)
+Features gamemodes 301, 501, Cricket, and Killer and an intuitive scoring system (no mental arithmetics required).
 
 ### [Mellobrickan](https://edvin-dyremark.github.io/MelloBrickan/)
 Bingo card web app for Melodifestivalen and Eurovision. Perfect for making the "MelloKväll" at home or with friends even more interesting.
