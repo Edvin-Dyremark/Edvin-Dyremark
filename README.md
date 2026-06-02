@@ -30,6 +30,6 @@ View, add and plan courses in an easy-to-use interface which detects clashes, co
 ### [Mellobrickan](https://edvin-dyremark.github.io/MelloBrickan/)
 Bingo card web app for Melodifestivalen and Eurovision. Perfect for making the "MelloKväll" at home or with friends even more interesting.
 
-### [Daily Journal]([https://github.com/Edvin-Dyremark/DailyWallpaper](https://github.com/Edvin-Dyremark/DailyJournal))
+### [Daily Journal](https://github.com/Edvin-Dyremark/DailyJournal)
 Simple Journaling Application, work in-progress.
 
