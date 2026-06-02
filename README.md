@@ -1,7 +1,9 @@
-# Hello! I'm Edvin 👋
+# Hello!
 Android developer · MSc Computer Engineering · Secure Systems
 
-Enjoy sports, games and building things. Feel free to browse and use any of my projects below.
+Enjoy sports, games and creating stuff. 
+I mostly build android apps in my spare time, andfor personal use.
+They are free to use by anyone as they like, Feel free to browse the projects below.
 
 ## Projects
 
