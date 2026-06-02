@@ -1,4 +1,4 @@
-# Hello!
+# Hello! I'm Edvin
 Android developer · MSc Computer Engineering · Secure Systems
 
 Enjoy sports, games and creating stuff. 
